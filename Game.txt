@@ -8,24 +8,23 @@ With abbreviations:
 6IF K$=CHR$(90) THEN GOTO8
 7G[207] 9
 8P=P+U
-9E=U-1: ?"[147] BASIC CLICKER":?P:?E
+9E=U-1:?"[147]BASIC CLICKER":?P:?E
 10G[207] 2
-
-Codes:
-[147] = [C=] + [CLR/HOME]
-[197] [SHIFT] + E
-[207] = [SHIFT] + O
 
 Without abbreviations:
 
 1 P=0:U=1:PRINT"[147] BASIC CLICKER":PRINT0:PRINT0
-2 GET[197] K$
+2 GET K$ 
 3 IF K$=CHR$(133) THEN GOTO5
 4 GOTO 6
 5 P=P-5:U=U+1
 6 IF K$=CHR$(90) THEN GOTO8
 7 GOTO 9
-8 P=P+U
+8  P=P+U
 9 E=U-1: PRINT"[147] BASIC CLICKER":PRINTP:PRINTE
 10 GOTO 2
 
+Codes:
+[147] = [C=] + [CLR/HOME]
+[197] [SHIFT] + E
+[207] = [SHIFT] + O 
