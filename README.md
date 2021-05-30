@@ -46,4 +46,4 @@ When I think of Clicker games, I usually think of a game where you gain points, 
 
 Why I Commodore BASIC:
 
-It's quite simple, my PC does not like the VICE emulator, I'll try to get it to work to get the D64 Image and PRG included with the Itch.io release.
+It's quite simple, my PC does not like emulators, I'll try to get it to work to get the D64 Image and PRG included with the Itch.io release. But the Commodore 64 is the only piece of hardware I have currently that can run BASIC
