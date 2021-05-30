@@ -34,7 +34,7 @@ did.. was it your first computer? Do you just like the platform? Please do tell!
 
 Game description:
 
-BASIC Clicker is a simple game replicating the feel of clicker games in 10 lines of BASIC. Pressing the Z key increments the points by the upgrades + 1, and pressing F1 trades 5 points for an upgrade, the UI being quite basic, with the name of the game at the top of the screen and the points and upgrades being below the name.
+BASIC Clicker is a simple game replicating the feel of clicker games in 10 lines of BASIC. Pressing the Z key increments the points by the upgrades + 1, and pressing F1 trades 5 points for an upgrade, the UI being quite basic, with the name of the game at the top of the screen and the points and upgrades being below the name. And yes, you can pay for upgrades with having less than 5 points
 
 The code:
 
